@@ -25,8 +25,8 @@ Running that command should give a terminal window with a running instance of No
 
         Welcome to Node-RED
         ===================
-        8 Apr 12:13:44 - [info] Node-RED version: v0.10.6
-        8 Apr 12:13:44 - [info] Node.js  version: v0.10.38
+        8 Apr 12:13:44 - [info] Node-RED version: v0.18.4
+        8 Apr 12:13:44 - [info] Node.js  version: v8.9.4
         .... etc
 
 You can then browse to `http://{host-ip}:1880` to get the familiar Node-RED desktop.
